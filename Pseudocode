@@ -1,0 +1,46 @@
+1. Newton Second Law
+PROGRAM START
+
+IF massa benda 600kg didorong oleh tiga orang
+THEN percepatannya adalah 2m/s2.
+
+PROGRAM STOP
+
+2. Tahun Kabisat
+PROGRAM START
+
+IF tahun habis dibagi 4 dan tidak habis dibagi 100,
+THEN itu adalah Tahun Kabisat
+
+ELSE IF tahun habis dibagi 4, habis dibagi 100, dan habis dibagi 400,
+THEN itu adalah Tahun Kabisat
+
+ELSE itu Bukan Tahun Kabisat
+
+PROGRAM STOP
+
+3. Laundry Day
+PROGRAM START
+
+IF baju Foxie lebih dari sama dengan 20 dan dimasukkan ke dalam mesin cuci
+THEN Mesin cuci dinyalakan
+
+ELSE baju Foxie kurang dari 20 dan dimasukkan ke dalam mesin cuci
+THEN Mesin cuci tidak dinyalakan
+
+PROGRAM STOP
+
+4. Periksa Kuku
+PROGRAM START
+DO pengecekan kelas WHILE siswa/siswi kurang dari 40
+
+IF guru menemukan siswa/siswi berkuku panjang
+THEN guru akan menghukum siswa/siswi tersebut
+
+ELSE guru tidak menemukan siswa/siswi berkuku panjang
+THEN guru akan memuji siswa/siswi tersebut
+
+PROGRAM STOP
+
+
+
