@@ -1,12 +1,12 @@
 function bandingkanAngka(angka1, angka2){
     if(angka1 < angka2){
-        console.log(true)
+        return true
     }
     else if(angka1 > angka2){
-        console.log(false)
+        return false
     }
-    else if(angka1 == angka2){
-        console.log(-1)
+    else{
+        return -1
     }
 }
 
